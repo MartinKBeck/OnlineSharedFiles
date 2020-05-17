@@ -1,2 +1,2 @@
 # OnlineSharedFiles
-Repository for all files that are shared.
+Repository for all files that I've shared online.
