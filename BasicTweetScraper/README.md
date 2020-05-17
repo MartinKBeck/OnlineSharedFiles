@@ -1,5 +1,6 @@
-Folder containing jupyter notebooks for tweet scraper based on written article https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1
+# How to Scrape Tweets from Twitter
+This folder contains my jupyter notebooks for scraping tweets discussed on my [tutorial article](https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1 "written article").
 
-Folder originally was posted here:
-
-But was remade here to put all openly shared files not attached to any part of a project here.
+This contains code for scraping tweets using two different packages in Python.
+* Tweepy
+* GetOldTweets3
