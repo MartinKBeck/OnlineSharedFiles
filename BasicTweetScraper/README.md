@@ -5,4 +5,4 @@ This folder code for scraping tweets using two different packages in Python.
 * GetOldTweets3
 * Tweepy
 
-My code friendly folder contains scripts and jupyter notebooks that were meant to be code-friendly for people that don't have a strong understanding of Python but still want to scrape tweets on Twitter.
+My code friendly folder is meant to contain scripts and jupyter notebooks that were meant to be code-friendly for people that don't have a strong understanding of Python but still want to scrape tweets on Twitter. However, this is still being developed.
